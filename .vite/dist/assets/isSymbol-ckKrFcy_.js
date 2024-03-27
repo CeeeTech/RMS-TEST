@@ -1,0 +1,1 @@
+import{i,b as t}from"./isArrayLike-C-wli46Q.js";function f(s,r){return s===r||s!==s&&r!==r}var b=9007199254740991,n=/^(?:0|[1-9]\d*)$/;function a(s,r){var o=typeof s;return r=r??b,!!r&&(o=="number"||o!="symbol"&&n.test(s))&&s>-1&&s%1==0&&s<r}var m="[object Symbol]";function c(s){return typeof s=="symbol"||i(s)&&t(s)==m}export{c as a,f as e,a as i};
