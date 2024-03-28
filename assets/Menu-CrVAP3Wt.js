@@ -1,0 +1,1 @@
+import{x as r,y as t,l as a}from"./index-D8YYVO5u.js";var e={},u=t;Object.defineProperty(e,"__esModule",{value:!0});var o=e.default=void 0,v=u(r()),i=a;o=e.default=(0,v.default)((0,i.jsx)("path",{d:"M3 18h18v-2H3zm0-5h18v-2H3zm0-7v2h18V6z"}),"Menu");export{o as d};

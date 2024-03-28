@@ -1,1 +1,0 @@
-import{x as t,y as r,l as a}from"./index-aYNdDFsw.js";var e={},o=r;Object.defineProperty(e,"__esModule",{value:!0});var i=e.default=void 0,u=o(t()),s=a;i=e.default=(0,u.default)((0,s.jsx)("path",{d:"M10 18h4v-2h-4zM3 6v2h18V6zm3 7h12v-2H6z"}),"FilterListTwoTone");export{i as d};

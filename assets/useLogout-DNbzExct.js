@@ -1,1 +1,0 @@
-import{r as o,bL as e}from"./index-aYNdDFsw.js";const r=()=>{const t=o.useContext(e);if(!t)throw Error("useAuthContext must be used inside an AuthContextProvider");return t},n=()=>{const{dispatch:t}=r();return{logout:()=>{localStorage.removeItem("user"),t({type:"LOGOUT"})}}};export{n as a,r as u};

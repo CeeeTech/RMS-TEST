@@ -1,0 +1,1 @@
+import{x as r,y as t,l as a}from"./index-D8YYVO5u.js";var e={},i=t;Object.defineProperty(e,"__esModule",{value:!0});var u=e.default=void 0,l=i(r()),v=a;u=e.default=(0,l.default)((0,v.jsx)("path",{d:"M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8zM6 20V4h7v5h5v11z"}),"InsertDriveFileOutlined");export{u as d};
