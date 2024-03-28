@@ -1,1 +1,0 @@
-import{x as r,y as t,l as a}from"./index-D8YYVO5u.js";var e={},u=t;Object.defineProperty(e,"__esModule",{value:!0});var i=e.default=void 0,l=u(r()),o=a;i=e.default=(0,l.default)((0,o.jsx)("path",{d:"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2m-2 15-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8z"}),"CheckCircle");export{i as d};

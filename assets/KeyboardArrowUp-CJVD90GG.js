@@ -1,1 +1,0 @@
-import{x as r,y as a,l as t}from"./index-D8YYVO5u.js";var e={},o=a;Object.defineProperty(e,"__esModule",{value:!0});var u=e.default=void 0,d=o(r()),l=t;u=e.default=(0,d.default)((0,l.jsx)("path",{d:"M7.41 15.41 12 10.83l4.59 4.58L18 14l-6-6-6 6z"}),"KeyboardArrowUp");export{u as d};

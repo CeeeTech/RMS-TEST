@@ -1,0 +1,1 @@
+import{x as r,y as t,l as a}from"./index-D1jq9kJH.js";var e={},o=t;Object.defineProperty(e,"__esModule",{value:!0});var u=e.default=void 0,i=o(r()),l=a;u=e.default=(0,i.default)((0,l.jsx)("path",{d:"M10 6 8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"}),"ChevronRight");export{u as d};
