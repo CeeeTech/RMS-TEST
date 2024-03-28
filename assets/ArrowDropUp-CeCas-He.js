@@ -1,0 +1,1 @@
+import{x as r,y as t,l as a}from"./index-aYNdDFsw.js";var e={},o=t;Object.defineProperty(e,"__esModule",{value:!0});var u=e.default=void 0,p=o(r()),i=a;u=e.default=(0,p.default)((0,i.jsx)("path",{d:"m7 14 5-5 5 5z"}),"ArrowDropUp");export{u as d};

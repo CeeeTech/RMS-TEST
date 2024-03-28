@@ -1,0 +1,1 @@
+import{x as a,y as t,l as r}from"./index-aYNdDFsw.js";var e={},u=t;Object.defineProperty(e,"__esModule",{value:!0});var v=e.default=void 0,o=u(a()),h=r;v=e.default=(0,o.default)((0,h.jsx)("path",{d:"M9 11H7v2h2zm4 0h-2v2h2zm4 0h-2v2h2zm2-7h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2m0 16H5V9h14z"}),"DateRange");export{v as d};
